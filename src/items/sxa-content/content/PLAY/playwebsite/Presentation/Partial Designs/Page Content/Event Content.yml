@@ -1,0 +1,42 @@
+﻿---
+ID: "a806affb-6f41-4ddd-9c0d-915240127f76"
+Parent: "13f126f8-089c-4c94-a800-7a73c6659b16"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Page Content/Event Content
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "event-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AC32ED7E-FD44-4EA4-81C1-087C78345AF9}"
+              p:before="*"
+              s:ds="91404cde-dfee-4269-b6e8-bab6ce8f15b9"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Session Promo&amp;ComponentConfiguration&amp;LibraryId={{libraryId}}&amp;ComponentId=FnbXCgP1cr&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=orvTpD8Ui72Y_mS&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Session Promo&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{6E64CB50-FE08-4CBC-8F8C-F6794E5E14F9}"
+              p:after="*[1=2]"
+              s:id="{8F4E0A87-F61C-5EA3-B7AD-5FBDE3716333}"
+              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd41ec68-d3c0-41f8-a6cd-4efc13131027"

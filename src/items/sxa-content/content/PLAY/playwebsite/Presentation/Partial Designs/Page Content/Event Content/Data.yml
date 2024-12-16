@@ -1,0 +1,13 @@
+﻿---
+ID: "1fea8f83-549c-40f5-92d4-977b8f57f046"
+Parent: "a806affb-6f41-4ddd-9c0d-915240127f76"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Page Content/Event Content/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f818d58-e9f0-4fc4-8fa0-28817cd75b87"
