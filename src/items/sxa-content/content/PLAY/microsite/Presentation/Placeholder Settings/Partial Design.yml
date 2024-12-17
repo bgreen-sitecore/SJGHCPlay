@@ -1,0 +1,13 @@
+﻿---
+ID: "a269019e-5f9a-4f96-844c-40aba7a35622"
+Parent: "e6d9d900-c2be-4703-95b4-5a31267c0b7b"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/PLAY/microsite/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ffba2e9-6122-4cff-bf80-3ad18645bef4"

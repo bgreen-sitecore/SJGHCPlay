@@ -1,0 +1,23 @@
+﻿---
+ID: "7cb259a3-2c5b-4927-ab9d-ced0a3e3c527"
+Parent: "24c3b273-d243-488a-9dec-543ef4206cbc"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/PLAY/microsite/Presentation/Available Renderings/FEaaS
+BranchID: "50b59b25-cc93-4ffc-9a9d-d9e6ba101096"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {CAA0C742-F052-49FB-825B-A03494798DB7}
+    {DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A6C669A1-05D3-4ABF-AC2F-4505CD948F9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "302a9dee-b392-4001-abe1-cf1b427a94f7"

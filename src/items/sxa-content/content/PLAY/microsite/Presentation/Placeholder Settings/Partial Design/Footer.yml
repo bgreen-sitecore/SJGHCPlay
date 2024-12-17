@@ -1,0 +1,17 @@
+﻿---
+ID: "6d43c934-423f-4335-a54f-0ff8ebd70f95"
+Parent: "a269019e-5f9a-4f96-844c-40aba7a35622"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/PLAY/microsite/Presentation/Placeholder Settings/Partial Design/Footer
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad4e8925-80c5-4f65-88a7-6516b12a6b92"

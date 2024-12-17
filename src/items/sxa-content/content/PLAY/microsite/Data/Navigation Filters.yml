@@ -1,0 +1,13 @@
+﻿---
+ID: "073436b5-d196-4b3c-9945-1aebaf1309ba"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/PLAY/microsite/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d26250c8-e8dd-4e5c-9946-2feed67f22b1"

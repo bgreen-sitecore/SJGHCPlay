@@ -27,7 +27,7 @@ Languages:
               p:before="*"
               s:ds="91404cde-dfee-4269-b6e8-bab6ce8f15b9"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Session Promo&amp;ComponentConfiguration&amp;LibraryId=6Kvy63rVlg5MSiaGVWU4ZO&amp;ComponentId=FnbXCgP1cr&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=orvTpD8Ui72Y_mS&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Session Promo&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="ComponentName=Session Promo&amp;ComponentConfiguration&amp;LibraryId=22xPxjkf0nJM4VYG9HKyZN&amp;ComponentId=FnbXCgP1cr&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=orvTpD8Ui72Y_mS&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Session Promo&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
             <r
               uid="{6E64CB50-FE08-4CBC-8F8C-F6794E5E14F9}"
@@ -39,4 +39,4 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fdabf727-0754-4eef-9d1c-c9709e5e3e33"
+      Value: "4d5aba51-7435-4143-9d18-2e3192f6a6b2"

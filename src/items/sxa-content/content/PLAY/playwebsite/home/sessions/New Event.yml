@@ -25,7 +25,7 @@ Languages:
             <r
               uid="{98B396D5-D052-42BC-A0AE-31768262B8D8}"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Event%20Registration%20Form&amp;ComponentConfiguration&amp;LibraryId=6Kvy63rVlg5MSiaGVWU4ZO&amp;ComponentId=ZMtmIbHaUe&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=dee7vDqLQift7NG&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Event%20Registration%20Form&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="ComponentName=Event Registration Form&amp;ComponentConfiguration&amp;LibraryId=22xPxjkf0nJM4VYG9HKyZN&amp;ComponentId=ZMtmIbHaUe&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=dee7vDqLQift7NG&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Event Registration Form&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="/headless-main/sxa-main/container-1" />
           </d>
         </r>
@@ -37,7 +37,7 @@ Languages:
       Value: New Event
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e9c5a008-6d33-4b21-969c-767b6f7f5eeb"
+      Value: "e5ea5a6d-28a9-4651-9370-407dd4d905c6"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: New Event

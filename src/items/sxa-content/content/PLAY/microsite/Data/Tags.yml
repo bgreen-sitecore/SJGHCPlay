@@ -1,0 +1,13 @@
+﻿---
+ID: "9be50f7b-cbef-43ae-8ae7-e4f74a5675c7"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/PLAY/microsite/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c02b1fa0-75e4-4678-a7ec-92a6a23bf28d"

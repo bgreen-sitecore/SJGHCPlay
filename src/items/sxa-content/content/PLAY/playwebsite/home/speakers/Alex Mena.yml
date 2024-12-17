@@ -22,6 +22,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "087528fd-b211-4715-aca0-cbe90275951b"
       Hint: Featured
       Value: 1
@@ -39,7 +42,7 @@ Languages:
       Value: "{01E09652-ABD7-4BB0-AD96-E609966330BD}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "349123d5-4927-4148-a10b-b4839f47ceb8"
+      Value: "47eddae6-afdf-4335-a194-38e827f2ef23"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Solstice
@@ -58,13 +61,13 @@ Languages:
         With his infectious enthusiasm and passion for fitness, Alex has inspired thousands of people to transform their lives through his speeches, workshops, and personal coaching. At the PLAY! Summit Conference, he will share his insights on the latest trends in fitness and wellness, and provide practical tips on how to stay motivated and achieve your health goals.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: International Sales Director
+      Value: Senior Sales Director
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Speaker
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Alex Mena
+      Value: Alex MENA
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Alex Mena

@@ -1,0 +1,18 @@
+﻿---
+ID: "7240ad01-d53b-4aa1-af71-ad48dd23a846"
+Parent: "52f887a4-b734-42dc-996d-15f0fa85a7a6"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/microsite/Home/Data
+BranchID: "c0db8366-5aec-41ed-b9a4-0b06b77f5d93"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0021F66F-4E54-47BB-A50E-D32C504A32A3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dad49aa-40d6-44f0-a4e5-fb0db6c4d697"

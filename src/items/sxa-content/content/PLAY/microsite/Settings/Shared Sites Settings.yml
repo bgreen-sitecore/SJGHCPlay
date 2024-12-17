@@ -1,0 +1,18 @@
+﻿---
+ID: "7d8b5636-32fd-46b5-a56c-2e76b292515e"
+Parent: "0e0923e7-b2a9-417d-af3a-ef4069009285"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/PLAY/microsite/Settings/Shared Sites Settings
+BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAE3F14-39ED-448F-A48C-F7A985A6EB77}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae96ce94-c07e-43d5-ad0e-3a7fc97547d7"

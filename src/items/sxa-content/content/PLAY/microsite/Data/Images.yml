@@ -1,0 +1,13 @@
+﻿---
+ID: "2dd5158d-38b6-4d9d-9b15-1060f5cb7152"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/PLAY/microsite/Data/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3a3b6ba-6817-40c3-b942-ba9285ecf0f6"

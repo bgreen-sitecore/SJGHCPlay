@@ -1,0 +1,13 @@
+﻿---
+ID: "cbfea36c-e848-49d0-ac30-df8ff961436c"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/PLAY/microsite/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f128bf3-c793-41fa-bcbd-1cea21fd1698"

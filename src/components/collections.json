@@ -31,19 +31,7 @@
           "givenName": "Ben",
           "familyName": "Green"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "ZMtmIbHaUe",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-12-16T06:55:16.266Z",
-            "modifiedAt": "2024-12-16T06:55:16.266Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
@@ -364,7 +352,7 @@
         "collectionId": "2kDkq3aAw3",
         "name": "Countdown Banner",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
         "embeddableVersionCount": 1,
@@ -372,16 +360,28 @@
         "createdAt": "2023-07-25T14:32:59.514Z",
         "stagedAt": "2023-08-03T12:33:41.827Z",
         "publishedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedAt": "2023-08-03T12:33:41.827Z",
+        "modifiedAt": "2024-12-17T02:41:13.269Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "62bd0cbb2be85c6edc2deebc",
+          "name": "Ben Green",
+          "email": "benjamin.green@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/a93d5d58fd233e4866a1d06f4e3c2670?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbe.png",
+          "givenName": "Ben",
+          "familyName": "Green"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AopQJ8Q0yN",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-12-17T02:41:12.682Z",
+            "modifiedAt": "2024-12-17T02:41:12.682Z"
+          }
+        ]
       }
     ]
   },

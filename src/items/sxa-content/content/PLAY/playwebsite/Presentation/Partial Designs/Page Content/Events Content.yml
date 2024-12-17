@@ -2,7 +2,7 @@
 ID: "3cd5b6c4-faae-4d60-b4f2-eb5b472a4567"
 Parent: "13f126f8-089c-4c94-a800-7a73c6659b16"
 Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
-Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Page Content/Session Content
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Page Content/Events Content
 SharedFields:
 - ID: "4a749557-242b-4372-8a20-b2db9d406301"
   Hint: __AutoThumbnails
@@ -63,4 +63,4 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c846f575-9e30-4a09-915c-4f776f281dfe"
+      Value: "70bbee70-fa6e-449d-a536-1349f002ea51"

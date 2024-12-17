@@ -1,0 +1,27 @@
+﻿---
+ID: "94603ec9-a4da-48e3-96f1-a1c1863b3795"
+Parent: "7240ad01-d53b-4aa1-af71-ad48dd23a846"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/microsite/Home/Data/PromoRight
+BranchID: "c0db8366-5aec-41ed-b9a4-0b06b77f5d93"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{09B4B2FE-801F-4DAA-AC87-4D5E978168A0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>Latest Products</h3>
+        <p>Find a variety of different mountain bike parts, there's something for every taste!</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dab8514-fec4-423e-a0ea-5befccf65c58"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{3CC9F067-BD3D-4593-B4A0-2BAFFAE00896}" />

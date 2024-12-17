@@ -1,0 +1,17 @@
+﻿---
+ID: "a96ce229-8954-4c2a-8a45-c56af447b012"
+Parent: "95ae4b35-95fd-4334-9821-0d8bedaa1542"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/PLAY/microsite/Presentation/Headless Variants/Image/Banner
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02dfe4c1-a809-4dc7-93d1-c0934f7bd9bf"

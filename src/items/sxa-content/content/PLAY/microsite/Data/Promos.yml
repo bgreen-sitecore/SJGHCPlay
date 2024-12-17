@@ -1,0 +1,13 @@
+﻿---
+ID: "ea62a317-2e52-48ab-b346-272ecfa98f8d"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/PLAY/microsite/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f19f75d6-687f-40ac-bdcd-c76b2e105a8d"

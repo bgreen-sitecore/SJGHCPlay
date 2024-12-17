@@ -1,0 +1,13 @@
+﻿---
+ID: "8e75fef8-d54b-431b-9fb3-27b0c3065099"
+Parent: "f08218b6-7e65-4177-9c25-a0a73930597d"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/PLAY/microsite/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c996f995-a6d6-4537-a2bc-dc30445085d8"
