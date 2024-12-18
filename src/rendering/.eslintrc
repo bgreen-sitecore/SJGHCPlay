@@ -14,7 +14,7 @@
     "yaml",
     "react"
   ],
-  "ignorePatterns": [".generated/**/*", "**/*.d.ts", "**/*.js"],
+  "ignorePatterns": [".generated/**/*", "**/*.d.ts", "**/*.js", "**/*.tsx"],
   "rules": {
     "@typescript-eslint/no-empty-interface": "off", // DEMO TEAM CUSTOMIZATION - Empty interfaces intentionally used to provide scaffolding for custom OrderCloud models
     "@next/next/no-img-element": "off", // Don't force next/image
