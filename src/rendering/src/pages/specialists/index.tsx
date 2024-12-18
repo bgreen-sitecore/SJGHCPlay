@@ -5,11 +5,11 @@ import SummitLayout from '../../components/NonSitecore/SummitLayout';
 import SearchResultsWidget from '../../components/ContentSearch/SearchResultsWidget';
 import { isSearchSDKEnabled } from '../../services/SearchSDKService';
 
-const Search = (): JSX.Element => {
+const Specialists = (): JSX.Element => {
   return isSearchSDKEnabled ? <SearchResultsWidget rfkId="rfkid_7" /> : <></>;
 };
 
-Search.getLayout = function getLayout(page: ReactElement) {
+Specialists.getLayout = function getLayout(page: ReactElement) {
   return (
     <>
       <Head>
@@ -21,4 +21,4 @@ Search.getLayout = function getLayout(page: ReactElement) {
   );
 };
 
-export default Search;
+export default Specialists;
