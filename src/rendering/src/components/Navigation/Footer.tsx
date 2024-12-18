@@ -101,7 +101,7 @@ const Footer = (props: FooterProps): JSX.Element => {
           <div>
             <p>
               {t('Copyright') || 'Copyright'} © 2014-{newDate.getFullYear()}{' '}
-              {t('PLAY! Summit') || 'PLAY! Summit'}
+              {t('SJOG') || 'SJOG'}
             </p>
           </div>
           <div>
