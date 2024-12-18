@@ -71,7 +71,7 @@ const SearchResults = ({
     query: (query: SearchResultsWidgetQuery) => {
       query
         .getRequest()
-        .setSearchFilter(new FilterEqual('type','speaker'))
+        .setSearchFilter(new FilterEqual('type', 'speaker'))
         .setSearchQueryHighlightFragmentSize(250)
         .setSearchQueryHighlightFields([
           'name',

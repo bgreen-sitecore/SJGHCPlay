@@ -100,7 +100,7 @@ const Footer = (props: FooterProps): JSX.Element => {
         <div className="footer-legal-links">
           <div>
             <p>
-              {t('Copyright') || 'Copyright'} © 2014-{newDate.getFullYear()}{' '}
+              {t('Copyright') || 'Copyright'} © 2014-{newDate.getFullYear()}{''}
               {t('SJOG') || 'SJOG'}
             </p>
           </div>
