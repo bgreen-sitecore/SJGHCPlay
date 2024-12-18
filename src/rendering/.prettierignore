@@ -1,2 +1,4 @@
 package.json
 src/temp/categoriesData.ts
+src/pages/specialists/index.tsx
+src/components/ContentSearch/SPSearchResultsWidget.tsx
