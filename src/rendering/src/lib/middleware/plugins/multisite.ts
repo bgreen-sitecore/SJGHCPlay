@@ -30,7 +30,8 @@ class MultisitePlugin implements MiddlewarePlugin {
           pathname.startsWith('/shop') ||
           pathname.startsWith('/account') ||
           pathname.startsWith('/channels') ||
-          pathname.startsWith('/careconnect')
+          pathname.startsWith('/careconnect') ||
+          pathname.startsWith('/specialists')
         ) {
           return true;
         }
