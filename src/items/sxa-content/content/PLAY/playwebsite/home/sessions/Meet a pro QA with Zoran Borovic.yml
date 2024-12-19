@@ -10,6 +10,9 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: 
@@ -61,7 +64,7 @@ Languages:
       Value: "{72DD2F9A-9EA1-4BD3-A8F5-927795E58AF9}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "51a108d4-fc6e-4d76-950f-c02421cc7049"
+      Value: "2284b7cf-e2dd-46c7-a613-dbd79bbaed45"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: "Meet a pro: Q&A with Zoran Borovic"

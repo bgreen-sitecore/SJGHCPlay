@@ -77,6 +77,13 @@ Languages:
             <r
               uid="{2CCB4620-B587-48E5-A42A-02865DC060FD}"
               s:par="Styles=%7BDC2D5A65-76D6-4E45-B4C7-43130120BF50%7D%7C%7B891F9C23-4890-4816-8E9E-9308C88BEDAD%7D&amp;FieldNames=%7B94DB84B2-14C5-4109-AF9B-DF9DA803C6D2%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D%7C%7B41E4B2ED-E813-46F9-8455-C26C88E78D47%7D%7C%7B1D84575C-B71C-40B2-BE7E-65503BCD666E%7D" />
+            <r
+              uid="{6466C531-C9BA-4F6E-90A0-E3E204367315}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/PromoRight"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B94DB84B2-14C5-4109-AF9B-DF9DA803C6D2%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1/container-2" />
           </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
@@ -87,4 +94,4 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "38418334-4ecc-4a77-8039-e06a301b7115"
+      Value: "19d14877-1fff-47e4-b477-7f5ad42aa82b"

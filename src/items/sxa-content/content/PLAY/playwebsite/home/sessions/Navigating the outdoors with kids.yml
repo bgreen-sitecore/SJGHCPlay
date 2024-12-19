@@ -10,6 +10,9 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: 
@@ -61,7 +64,7 @@ Languages:
       Value: "{F14EF887-2C62-474E-A61E-F8EBEF6173CC}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "26120099-1688-4157-b774-3ef0fe13f4b8"
+      Value: "416d2a6b-a284-4073-8c24-bdbb47cb3b2f"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Navigating the outdoors with kids

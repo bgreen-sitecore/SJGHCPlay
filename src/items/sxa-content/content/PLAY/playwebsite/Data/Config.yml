@@ -15,10 +15,13 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "32c00ea7-b305-40e4-b9be-e03a92b05ae3"
       Hint: HeaderLogo
       Value: |
-        <image mediaid="" stylelabs-content-id="30940" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/30940/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/83a458a1cb54401cab2308488bbd1031?v=bdb6447b" stylelabs-content-type="Image" alt="PLAY! Summit logo - stacked light grey" height="113" width="274" />
+        <image mediaid="14bd9b08-be5e-44f0-bb19-b4646dcc25c8" />
     - ID: "3971a645-b079-4bc3-9971-bf655b7713fa"
       Hint: Startdate
       Value: 20210909T060000Z
@@ -27,11 +30,11 @@ Languages:
       Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3f841518-f902-4b52-a8a4-3647902c6fd3"
+      Value: "9d042b46-2dee-4d26-9abc-e93fce262697"
     - ID: "af909783-3a24-4708-b431-192e9b0c98b6"
       Hint: FooterLogo
       Value: |
-        <image mediaid="" stylelabs-content-id="30936" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/30936/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/c78f4095acc746a98146aaa38f57a04f?v=85bba949" stylelabs-content-type="Image" alt="PLAY! Summit long light grey" height="113" width="413" />
+        <image mediaid="{14BD9B08-BE5E-44F0-BB19-B4646DCC25C8}" />
     - ID: "b43d2551-9059-413a-92be-74ea74142c22"
       Hint: SiteBrowserTitle
       Value: "Play! Summit"

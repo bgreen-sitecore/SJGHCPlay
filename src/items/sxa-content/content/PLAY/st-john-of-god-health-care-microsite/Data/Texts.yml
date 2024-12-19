@@ -1,0 +1,13 @@
+﻿---
+ID: "b847f179-7860-4d41-8275-e6fc40c7c2cb"
+Parent: "2d447a25-e0d4-43c6-907d-81473b1ebfd9"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39e7d667-ba6b-425c-b18f-538c068865a7"

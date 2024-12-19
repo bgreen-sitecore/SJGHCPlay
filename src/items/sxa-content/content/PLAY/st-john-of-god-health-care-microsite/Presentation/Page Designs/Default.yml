@@ -1,0 +1,17 @@
+﻿---
+ID: "bd700c59-7785-4355-8e7d-3b6a3264fc33"
+Parent: "c840ecec-f9c9-45a9-8dd4-8b9975302b91"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{6C7D9352-624B-40E2-8B1C-80571C910F57}|{A6242621-13E7-4779-BF79-E40DB622D013}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4018ce47-d478-4996-ae89-fd547ddaad95"

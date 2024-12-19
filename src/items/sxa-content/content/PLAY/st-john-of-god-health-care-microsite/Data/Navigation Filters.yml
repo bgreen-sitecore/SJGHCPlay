@@ -1,0 +1,13 @@
+﻿---
+ID: "5b8a42b2-4b92-48ae-8dc8-7cddefd6c356"
+Parent: "2d447a25-e0d4-43c6-907d-81473b1ebfd9"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "335291ac-ac7c-4466-96c1-e2380228e8db"

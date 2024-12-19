@@ -1,0 +1,43 @@
+﻿---
+ID: "a6242621-13e7-4779-bf79-e40db622d013"
+Parent: "0a0d2d9b-c007-4419-94c8-06ef697b2602"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Partial Designs/Header"
+BranchID: "22684745-2aca-4b03-be30-62f90ff9d022"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{FE4F36A5-0B49-4176-935E-82BE54EF5E91}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?DynamicPlaceholderId=1&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{B72958EE-BFAC-4DCE-8F0F-5115A577B3FA}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bCAEE8416-69C8-451A-8184-781813FDEAB5%7d&amp;FieldNames=%7b72B8C9BB-8D84-4894-A8EB-76C9A1819172%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="/headless-header/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2F8D12C8-D8C6-4863-9CB1-E630A20F0463}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dac86807-d11d-4f31-81df-33d71c6b3f3a"

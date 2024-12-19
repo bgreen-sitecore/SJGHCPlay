@@ -10,6 +10,9 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: 
@@ -61,7 +64,7 @@ Languages:
       Value: "{C53A4814-4956-427E-A3C0-1DAEE197459C}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7dcb42d6-93a8-4cc5-b027-ab652c839ed9"
+      Value: "659f8ff6-1f73-40c5-ae57-bcc34054124d"
     - ID: "cb19a833-48b8-4ad4-a841-09769bbef5c6"
       Hint: Sponsors
       Value: "{5319CA3C-CD21-4D68-A68A-1EAF4D34F63D}"

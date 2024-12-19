@@ -1,0 +1,17 @@
+﻿---
+ID: "8738e264-c162-4bbe-8afe-35c04819086d"
+Parent: "9892fd29-76cd-4c3e-8975-606f14b4acdb"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a632ceb-ef30-4f73-b002-6126f31418b2"

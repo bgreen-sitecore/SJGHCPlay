@@ -1,0 +1,13 @@
+﻿---
+ID: "156cb801-543e-4346-a04b-dcd34b36ca93"
+Parent: "7315b127-90d2-47cb-888d-cf72133ee7fb"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b25cbbb-2c24-4394-a356-d91d611f86c6"

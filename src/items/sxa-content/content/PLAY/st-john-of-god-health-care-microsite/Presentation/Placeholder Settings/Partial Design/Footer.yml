@@ -1,0 +1,17 @@
+﻿---
+ID: "c73ad7a2-3b2e-449d-833e-d2df300b8428"
+Parent: "156cb801-543e-4346-a04b-dcd34b36ca93"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52661d17-3602-4cc3-9d92-fcdd72ee1751"

@@ -1,0 +1,30 @@
+﻿---
+ID: "4d03fb1c-be9a-4349-89de-2e87a987702b"
+Parent: "9d827feb-81fe-4750-a5f6-6787ea16eef4"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Styles/PLAYSite/Main Promo Reversed"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "promo-reversed"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71b08ed8-6334-4b99-afe6-0f27c924e3e9"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f55b902b-f769-45e3-80f4-20dce244b373"

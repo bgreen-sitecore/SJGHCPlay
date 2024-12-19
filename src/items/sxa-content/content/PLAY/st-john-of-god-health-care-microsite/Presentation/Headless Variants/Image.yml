@@ -1,0 +1,21 @@
+﻿---
+ID: "9892fd29-76cd-4c3e-8975-606f14b4acdb"
+Parent: "17afc8ab-2abb-4784-ba2b-192f554b9233"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Headless Variants/Image"
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/photo_landscape.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{22E4CE0C-BBBC-46EC-8F36-773779104491}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dab27ae-a0a5-476b-942f-6aac01013634"

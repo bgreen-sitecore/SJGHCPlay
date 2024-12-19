@@ -1,0 +1,21 @@
+﻿---
+ID: "a81ebf7a-4169-46d2-9779-f8eaa2bdad57"
+Parent: "de772ef2-30d6-40b4-9a3f-86290f6a40ff"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Partial Designs/Header/Data/Title"
+BranchID: "22684745-2aca-4b03-be30-62f90ff9d022"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3A3056E4-002A-40C4-ADD8-047A923C03FD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: "<h1>PLAY! Summit News</h1>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1152a887-affd-4ae9-bbc1-dff29606b22d"

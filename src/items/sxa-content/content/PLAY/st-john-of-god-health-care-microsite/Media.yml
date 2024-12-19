@@ -1,0 +1,24 @@
+﻿---
+ID: "6cef9cba-2804-44e7-8c38-30af3c7091fd"
+Parent: "015a0636-caa0-407e-920d-b1edda42bf1a"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {C8C882F0-BC01-4B66-B02F-ED5F30A477CD}
+    {E7A53B03-6B96-41C8-83FF-01A08CEC02E4}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9e6063f-bca9-492a-89ea-b4c0356cbf25"

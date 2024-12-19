@@ -348,9 +348,9 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "AopQJ8Q0yN",
+        "id": "Osf14muy_u",
         "collectionId": "2kDkq3aAw3",
-        "name": "Countdown Banner",
+        "name": "Event Registration Form",
         "description": "",
         "status": "changed",
         "versionCount": 2,
@@ -358,9 +358,9 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
-        "publishedAt": "2023-08-03T12:33:41.827Z",
-        "modifiedAt": "2024-12-17T02:41:13.269Z",
+        "stagedAt": "2024-12-18T01:40:34.312Z",
+        "publishedAt": "2024-12-18T01:40:34.312Z",
+        "modifiedAt": "2024-12-18T01:41:06.094Z",
         "modifiedBy": {
           "id": "62bd0cbb2be85c6edc2deebc",
           "name": "Ben Green",
@@ -373,15 +373,40 @@
           {
             "id": "responsive",
             "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
+            "componentId": "Osf14muy_u",
             "name": "Default bundle",
             "description": "",
             "breakpoints": {},
             "orderIdx": "",
-            "createdAt": "2024-12-17T02:41:12.682Z",
-            "modifiedAt": "2024-12-17T02:41:12.682Z"
+            "createdAt": "2024-12-18T00:55:25.535Z",
+            "modifiedAt": "2024-12-18T00:55:25.535Z"
           }
         ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "AopQJ8Q0yN",
+        "collectionId": "2kDkq3aAw3",
+        "name": "Countdown Banner",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2023-07-25T14:32:59.514Z",
+        "stagedAt": null,
+        "publishedAt": "2023-08-03T12:33:41.827Z",
+        "modifiedAt": "2024-12-17T02:41:13.269Z",
+        "modifiedBy": {
+          "id": "62bd0cbb2be85c6edc2deebc",
+          "name": "Ben Green",
+          "email": "benjamin.green@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/a93d5d58fd233e4866a1d06f4e3c2670?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fbe.png",
+          "givenName": "Ben",
+          "familyName": "Green"
+        },
+        "bundles": []
       }
     ]
   },

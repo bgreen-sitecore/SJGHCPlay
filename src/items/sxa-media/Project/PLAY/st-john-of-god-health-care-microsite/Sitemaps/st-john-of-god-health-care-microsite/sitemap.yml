@@ -1,0 +1,44 @@
+﻿---
+ID: "b177b967-bf46-48e3-99e8-9a3ca411b91a"
+Parent: "45dc8bb7-0f64-44d6-8ff1-cbda0cbbd561"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/PLAY/st-john-of-god-health-care-microsite/Sitemaps/st-john-of-god-health-care-microsite/sitemap"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/cube_molecule.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4828971c-c82e-4e46-9cab-f48053c933fd"
+  Value: 
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 0
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/xml
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: xml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2fafe7cb-2691-4800-8848-255efa1d31aa"
+      Hint: Keywords
+      Value: |
+        sd:{DB8D3880-BA31-407D-A607-DCE9175043E0}
+        site:{015A0636-CAA0-407E-920D-B1EDDA42BF1A}
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: sitemap
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a836f72-21bc-4cde-ad88-c338e4721c78"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Sitecore Experience Accelelator sitemap file

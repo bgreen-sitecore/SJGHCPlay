@@ -1,0 +1,50 @@
+﻿---
+ID: "6c7d9352-624b-40e2-8b1c-80571c910f57"
+Parent: "0a0d2d9b-c007-4419-94c8-06ef697b2602"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/PLAY/st-john-of-god-health-care-microsite/Presentation/Partial Designs/Footer"
+BranchID: "2c702d41-d44e-4501-9be0-f4b7344bfaed"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2685A5C7-F0DF-4D48-AD6A-AF09498B7DC2}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b57C736E3-B049-42B0-9B70-493A9604149E%7d%7c%7b318EF0C5-03E2-4BD0-9318-DB890FC392D7%7d%7c%7b9D827FEB-81FE-4750-A5F6-6787EA16EEF4%7d%7c%7b818EF79D-92E6-4E3E-A194-FFDE41100E69%7d%7c%7b91FBA9CE-C83D-4544-9D25-C462348AF938%7d%7c%7b2328B7C5-D608-4B71-B43C-F340E95A9FE5%7d%7c%7bF91223BB-8F51-4FD7-8DE5-D517D2978162%7d%7c%7b5649FD1E-DAD5-4167-BF18-AE7EE628DDCB%7d%7c%7b6FB3C526-C12B-4049-962B-77FADAE1B9EA%7d%7c%7b34A96EDD-F65B-41DD-9878-75208109140F%7d%7c%7bA3EAF6FD-E12D-45A7-8AE0-6B532DCC42CA%7d%7c%7bA9D3E2CD-9FA2-4CD2-B456-327637D6E6EE%7d%7c%7b184C4730-58FC-4567-9C35-A643B7D12FD1%7d%7c%7bC0A5E088-93EE-4558-B512-5023E564FD19%7d%7c%7bA0F56748-1401-4C4B-84E6-6092A33B0F28%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{12E162F5-02DD-43EB-A85E-5E63CA844587}"
+          p:after="r[@uid='{2685A5C7-F0DF-4D48-AD6A-AF09498B7DC2}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bB37E2383-570D-40ED-A799-051D939F5CEB%7d&amp;FieldNames=%7b72B8C9BB-8D84-4894-A8EB-76C9A1819172%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{9D2D49A5-8814-4BE8-941A-A9EDD73080DE}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bB37E2383-570D-40ED-A799-051D939F5CEB%7d&amp;FieldNames=%7b72B8C9BB-8D84-4894-A8EB-76C9A1819172%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F0848010-7B68-43E9-898B-0F304CD42482}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1bca4a8-4876-4cc9-8e00-3b931426584e"

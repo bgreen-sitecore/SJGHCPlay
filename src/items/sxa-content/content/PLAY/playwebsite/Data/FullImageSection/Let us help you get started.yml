@@ -8,20 +8,23 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "0f531c03-8501-5776-be06-03ac387d1076"
       Hint: callToActionLink
       Value: |
-        <link text="Start here" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F0F59E9F-A9D5-4B8A-9A11-A1A0A08FC6C9}" />
+        <link linktype="internal" id="b8a0d560-1045-48db-865f-0427641db0fe" anchor="" querystring="" target="" class="" text="Read now" title=""/>
     - ID: "52db75bc-b548-42bf-8fff-7ed04af8cb58"
       Hint: backgroundImage
       Value: |
         <image mediaid="{82FE5E2A-CB16-4235-BBD1-2D89955A0EC1}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e8ee33d1-577a-455d-b768-155925c02f0c"
+      Value: "14b3d8e7-321b-43ca-aaa0-7a2d7f999bd0"
     - ID: "a41c61bb-5abb-5773-9870-c06f637dd22c"
       Hint: content
       Value: "So many choices can be overwhelming. Whether you're a beginner or expert, our quick three-step questionnaire will get you moving."
     - ID: "e93c0025-7f3b-5484-ad56-198d8c5f9c22"
       Hint: title
-      Value: Let us help you get started
+      Value: Critical Incident

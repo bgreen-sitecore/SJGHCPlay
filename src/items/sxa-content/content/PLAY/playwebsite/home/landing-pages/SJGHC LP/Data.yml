@@ -1,0 +1,18 @@
+﻿---
+ID: "f8073889-e15b-4e9c-ae8c-a58558cb7ad4"
+Parent: "b8a0d560-1045-48db-865f-0427641db0fe"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/SJGHC LP/Data"
+BranchID: "6c07c9a2-87c4-418f-aa22-9e5d6c382e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D05F0AD-9E47-45CB-A6D4-FBA22E4477BC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c584a91-c788-4d4f-bfb9-128fd8405250"

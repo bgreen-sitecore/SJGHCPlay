@@ -7,6 +7,9 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3875
 Languages:
 - Language: en
   Versions:
@@ -37,7 +40,7 @@ Languages:
       Value: New Event
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5ea5a6d-28a9-4651-9370-407dd4d905c6"
+      Value: "0577e35a-ce03-4d31-b66c-5add71c74a81"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: New Event

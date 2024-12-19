@@ -1,0 +1,94 @@
+{
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/57d3af08-0d86-412b-b2fb-8a9dea7b9642",
+  "ref": "57d3af08-0d86-412b-b2fb-8a9dea7b9642",
+  "name": "embedded_{scope}_81451dd4998d428e8fb4a5d084866eee_en",
+  "modifiedByRef": "auth0|62bd0cbb2be85c6edc2deebc",
+  "modifiedAt": "2024-12-18T22:54:34.478Z",
+  "revision": 2,
+  "archived": false,
+  "friendlyId": "embedded_{scope}_81451dd4998d428e8fb4a5d084866eee_en",
+  "type": "INTERACTIVE_API_FLOW",
+  "subtype": "EXPERIENCE",
+  "channels": [
+    "WEB"
+  ],
+  "triggers": [],
+  "dashboardLinks": [],
+  "tags": [],
+  "businessProcess": "interactive_v1",
+  "siteId": "4905319f-5b19-4ec4-9860-7bfcf5d4a2b5",
+  "traffic": {
+    "type": "audienceTraffic",
+    "weightingAlgorithm": "USER_DEFINED",
+    "modifiedAt": "2024-12-18T22:54:34.501Z",
+    "splits": [
+      {
+        "template": "{\"variantId\": \"ca41b43400c7442b942b36a8b1ba278b\"}",
+        "variantName": "UTM",
+        "audienceName": "UTM",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "utm_value",
+                "params": {
+                  "type": "campaign",
+                  "compares to": "contains",
+                  "UTM value": "campaign"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "variants": [],
+  "transpiledVariants": [
+    {
+      "ref": "4f2d04cc-437c-4eb6-960b-481a9db38f93",
+      "name": "UTM",
+      "tasks": [
+        {
+          "implementation": "templateRenderTask",
+          "input": {
+            "inputType": "templateRenderTaskInput",
+            "type": "application/json",
+            "template": "{\"variantId\": \"ca41b43400c7442b942b36a8b1ba278b\"}"
+          }
+        },
+        {
+          "implementation": "conditionsTask",
+          "input": {
+            "inputType": "conditionsTaskInput",
+            "rules": [
+              {
+                "id": "scriptCondition",
+                "name": "Combined condition groups",
+                "description": "Combined templates within condition group for targeted experience",
+                "ruleData": {
+                  "expression": "(function () {\n    var compareValue = \"contains\";\n    var utmType = \"campaign\";\n    var utmValue = \"campaign\";\n    var utmMultiValue = \"\";\n    var utmArray = utmMultiValue.split(',');\n    var utmMatch = false;\n    \n    \n    if (request && request.params && request.params.utm) {\n        if (request.params.utm[utmType]) {\n            if (compareValue === 'is equal to') {\n               utmMatch = request.params.utm[utmType] === utmValue; \n            } else if (compareValue === 'includes any of') {\n                for (var k = 0; k < utmArray.length; k++) {\t\n                    if (request.params.utm[utmType] === utmArray[k]) {\t\n                        utmMatch = true;\t\n                        break;\t\n                    }\n                }\n            } else if (compareValue === 'contains') {\n                utmMatch = request.params.utm[utmType].indexOf(utmValue) >= 0 ? true : false;\n            } else if (compareValue === 'starts with') {\n                utmMatch = request.params.utm[utmType].startsWith(utmValue);\n            } else if (compareValue === 'ends with') {\n                utmMatch = request.params.utm[utmType].endsWith(utmValue);\n            } else if (compareValue === 'is null') {\n                utmMatch = !request.params.utm[utmType];\n            }\n        } else if (compareValue === 'is null') {\n      \t    utmMatch = true;\n        }\n    } else if (guest.sessions && guest.sessions.length > 0) {\n        var currentSession = null;\n        for (var i = 0; i < guest.sessions.length; i++) {\n          if (guest.sessions[i].channel === \"WEB\") {\n            currentSession = guest.sessions[i];\n            break;\n          }\n        }\n        if (currentSession && currentSession.events && currentSession.events.length > 0) {\n            var firstEventIndex = currentSession.events.length - 1;\n            var firstEvent = currentSession.events[firstEventIndex];\n            var utmTypeProperty = 'utm_' + utmType;\n            if (firstEvent.arbitraryData && firstEvent.arbitraryData[utmTypeProperty]) {\n                if (compareValue === 'is equal to') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty] === utmValue; \n                } else if (compareValue === 'includes any of') {\n                    for (var m = 0; m < utmArray.length; m++) {\t\n                        if (firstEvent.arbitraryData[utmTypeProperty] === utmArray[m]) {\t\n                            utmMatch = true;\t\n                            break;\t\n                        }\n                    }\n                } else if (compareValue === 'contains') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].indexOf(utmValue) >= 0 ? true : false;\n                } else if (compareValue === 'starts with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].startsWith(utmValue);\n                } else if (compareValue === 'ends with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].endsWith(utmValue);\n                } else if (compareValue === 'is null') {\n                    utmMatch = !firstEvent.arbitraryData[utmTypeProperty];\n                }\n            } else if (compareValue === 'is null') {\n          \t    utmMatch = true;\n            }\n        }\n    }\n    \n    return utmMatch;\n})();"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "status": "PRODUCTION",
+  "schedule": {
+    "type": "simpleSchedule",
+    "startDate": "2024-12-18T22:53:59.177Z"
+  },
+  "revisions": {
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/57d3af08-0d86-412b-b2fb-8a9dea7b9642/revisions"
+  },
+  "sampleSizeConfig": {
+    "baseValue": 0.15,
+    "minimumDetectableDifference": 0.02,
+    "confidenceLevel": 0.95
+  },
+  "notificationEnabled": false
+}
